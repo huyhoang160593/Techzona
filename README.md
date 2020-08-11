@@ -5,7 +5,7 @@
 Website có các phần chính sau:
   - Front-end: ReactJS, Redux
   - Back-end: Node.JS, Express
-  - Cơ sở dữ liệu: MongoDB Atlat(kết nối với back-end thông qua trung gian là Mongoose)(cloud)
+  - Cơ sở dữ liệu: MongoDB Atlas(kết nối với back-end thông qua trung gian là Mongoose)(cloud)
   - AWS S3: dùng làm nơi lưu trữ ảnh(cloud)
   - Thanh toán: hỗ trợ Paypal API(sử dụng sandbox mode để phục vụ việc show cho thầy)
   - Token: JWT Token để hỗ trợ việc đăng nhập
