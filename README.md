@@ -8,6 +8,9 @@ Website có các phần chính sau:
   - Cơ sở dữ liệu: MongoDB Atlat(kết nối với back-end thông qua trung gian là Mongoose)(cloud)
   - AWS S3: dùng làm nơi lưu trữ ảnh(cloud)
   - Thanh toán: hỗ trợ Paypal API(sử dụng sandbox mode để phục vụ việc show cho thầy)
+  - Token: JWT Token để hỗ trợ việc đăng nhập
+  - Cookie: JSCookie để lưu trữ thông tin đăng nhập và trạng thái giỏ hàng
+  - Thực hiện các HTTP request: sử dụng axious ở phần frontend
 
 Cùng với các package cài thêm để tăng cường tính bảo mật và độ linh hoạt cho dự án
 
